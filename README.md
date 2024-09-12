@@ -1,6 +1,22 @@
-# EdTech Website
+**Skill Safari: E-Learning website**
 
-## It's an EdTech Website
-![Uploading Screenshot (212).png…]()
-![Uploading Screenshot (213).png…]()
-![Uploading Screenshot (215).png…]()
+**Description:**
+Skill Safari is a comprehensive e-learning platform designed to provide accessible and high-quality educational resources to learners worldwide. It offers a wide range of courses, from programming to design, business to personal development, catering to diverse learning needs.
+
+**Features:**
+
+Course Catalog: A curated collection of courses with detailed descriptions, prerequisites, and learning outcomes.
+
+Interactive Learning: Engaging course content, including videos, quizzes, assignments, and discussion forums.
+
+Progress Tracking: Real-time progress tracking to monitor learners' achievements and completion rates.
+
+Certification: Upon course completion, learners can earn certificates to validate their skills.
+
+Instructor Profiles: Showcase profiles of experienced instructors with their credentials and expertise.
+
+Community Forum: A platform for learners to connect, discuss topics, and seek help from peers and instructors.
+
+Payment Gateway: Secure payment options for course purchases.
+
+Responsive Design: Optimized for various devices (desktop, tablet, mobile) for seamless learning experience.
