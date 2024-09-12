@@ -5,18 +5,18 @@ Skill Safari is a comprehensive e-learning platform designed to provide accessib
 
 **Features:**
 
-Course Catalog: A curated collection of courses with detailed descriptions, prerequisites, and learning outcomes.
+● Course Catalog: A curated collection of courses with detailed descriptions, prerequisites, and learning outcomes.
 
-Interactive Learning: Engaging course content, including videos, quizzes, assignments, and discussion forums.
+● Interactive Learning: Engaging course content, including videos, quizzes, assignments, and discussion forums.
 
-Progress Tracking: Real-time progress tracking to monitor learners' achievements and completion rates.
+● Progress Tracking: Real-time progress tracking to monitor learners' achievements and completion rates.
 
-Certification: Upon course completion, learners can earn certificates to validate their skills.
+● Certification: Upon course completion, learners can earn certificates to validate their skills.
 
-Instructor Profiles: Showcase profiles of experienced instructors with their credentials and expertise.
+● Instructor Profiles: Showcase profiles of experienced instructors with their credentials and expertise.
 
-Community Forum: A platform for learners to connect, discuss topics, and seek help from peers and instructors.
+● Community Forum: A platform for learners to connect, discuss topics, and seek help from peers and instructors.
 
-Payment Gateway: Secure payment options for course purchases.
+● Payment Gateway: Secure payment options for course purchases.
 
-Responsive Design: Optimized for various devices (desktop, tablet, mobile) for seamless learning experience.
+● Responsive Design: Optimized for various devices (desktop, tablet, mobile) for seamless learning experience.
